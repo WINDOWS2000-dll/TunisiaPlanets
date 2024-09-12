@@ -1,0 +1,10 @@
+{
+  "package": "com.windows2000.tunisiaPlanets.mixins",
+  "refmap": "mixins.tunisiaplanets.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": [],
+  "server": []
+}
